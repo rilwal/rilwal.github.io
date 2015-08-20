@@ -1,0 +1,1 @@
+This is the documentation for Jason Light's [platform game](http://github.com/abscission/platform-game).
