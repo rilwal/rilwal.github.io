@@ -25,7 +25,7 @@ Creating a game requires a lot of work other than the technical aspects. I will 
 The video game space is rather packed, and there are a lot of titles from which I can draw inspiration and find ideas.
 
 ###Thomas was Alone
-[Thomas was Alone](http://www.mikebithellgames.com/thomaswasalone/) is an indie puzzle platform game by Mike Bithell. It is based around the idea of a system which contains several self aware <abbr title="Artificial Intelligences">AIs</abbr> which 
+[Thomas was Alone](http://www.mikebithellgames.com/thomaswasalone/) is an indie puzzle platform game by Mike Bithell. It is based around the idea of a system which contains several self aware <abbr title="Artificial Intelligences">AIs</abbr> which are controled by the player. They are represented on screen as a series of various sized and colored quadrilaterals, each of which 
 
 ##The Proposal
 I propose that I will make a 2D side scrolling video game which aims to challenge the user on many fronts, from memory, to reaction time, to problem solving. I will perform market research to find the preferred genre and style of a range of gamers (my stakeholders).
